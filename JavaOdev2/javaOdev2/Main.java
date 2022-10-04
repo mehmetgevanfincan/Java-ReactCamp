@@ -10,7 +10,7 @@ public class Main {
 		
 		Student student1 = new Student(1,"Yagmur","Fincan","yagmur.fincan@kodlama.io","Code-W");
 				
-		Student student2 = new Student(2,"Mehmet Gevan", "Fincan", "geven.fincan@kodlama.io","Code-Man");
+		Student student2 = new Student(2,"Mehmet Gevan", "Fincan", "gevan.fincan@kodlama.io","Code-Man");
 		
 		Course[] courses = {course1,course2};
 		
