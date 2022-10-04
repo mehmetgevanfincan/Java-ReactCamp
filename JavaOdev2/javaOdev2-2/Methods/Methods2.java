@@ -1,3 +1,5 @@
+package Methods;
+
 public class Methods2 {
 
     public static void main(String[] args) {
@@ -13,6 +15,7 @@ public class Methods2 {
     }
 
     public static void ekle(){
+
         System.out.println("Eklendi");
     }
 
@@ -21,10 +24,12 @@ public class Methods2 {
     }
 
     public static void guncelle(){
+
         System.out.println("Güncellendi");
     }
 
     public  static  int topla(int sayi1, int sayi2){
+
         return sayi1 + sayi2;
     }
 
@@ -37,6 +42,7 @@ public class Methods2 {
     }
 
     public static String sehirVer(){
+
         return "Ankara";
     }
 

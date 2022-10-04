@@ -1,3 +1,5 @@
+package Methods;
+
 public class Methods {
 
     public static void main(String[] args) {
@@ -28,9 +30,7 @@ public class Methods {
         }
     }
 
-    public static  void mesajVer(String mesaj){
-        System.out.println(mesaj);
-    }
+    public static  void mesajVer(String mesaj){System.out.println(mesaj);}
 
 
 }
