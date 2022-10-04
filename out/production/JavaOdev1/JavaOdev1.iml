@@ -3,15 +3,9 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ArraysDemo" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Conditionals" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DataTypes" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/LoopDemo" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/MultiDimensionalArrayDemo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ReCapDemo" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/StringDemo" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/StringDemos" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SwitchDemo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Variables" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/miniProjects" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
