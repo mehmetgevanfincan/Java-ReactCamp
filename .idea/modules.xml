@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaReactDay3/Homework1/Homework1.iml" filepath="$PROJECT_DIR$/JavaReactDay3/Homework1/Homework1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaReactDay3/Homework2/Homework2.iml" filepath="$PROJECT_DIR$/JavaReactDay3/Homework2/Homework2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Intro/Intro.iml" filepath="$PROJECT_DIR$/Intro/Intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-ReactCamp.iml" filepath="$PROJECT_DIR$/.idea/Java-ReactCamp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaOdev1/JavaOdev1.iml" filepath="$PROJECT_DIR$/JavaOdev1/JavaOdev1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaOdev2/JavaOdev2.iml" filepath="$PROJECT_DIR$/JavaOdev2/JavaOdev2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaOdev3/JavaOdev3.iml" filepath="$PROJECT_DIR$/JavaOdev3/JavaOdev3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaReactDay1/JavaReactDay1.iml" filepath="$PROJECT_DIR$/JavaReactDay1/JavaReactDay1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaReactDay2/JavaReactDay2.iml" filepath="$PROJECT_DIR$/JavaReactDay2/JavaReactDay2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaReactDay3/JavaReactDay3.iml" filepath="$PROJECT_DIR$/JavaReactDay3/JavaReactDay3.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP Intro/OOP Intro.iml" filepath="$PROJECT_DIR$/OOP Intro/OOP Intro.iml" />
     </modules>
   </component>
