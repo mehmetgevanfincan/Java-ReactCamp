@@ -1,6 +1,6 @@
 public class Main {
-    public static void main(String[] args){
-        CreditUI creditUI =new CreditUI();
+    public static void main(String[] args) {
+        CreditUI creditUI = new CreditUI();
         creditUI.CalculateOfCredit(new TeacherCreditManager());
     }
 }

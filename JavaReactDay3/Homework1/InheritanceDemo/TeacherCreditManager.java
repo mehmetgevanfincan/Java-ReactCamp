@@ -1,3 +1,3 @@
-public class TeacherCreditManager extends BaseCreditManager{
+public class TeacherCreditManager extends BaseCreditManager {
 
 }
